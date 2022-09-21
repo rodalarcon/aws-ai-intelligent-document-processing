@@ -1,7 +1,7 @@
 # Intelligent Document Processing with AWS AI Services
 
 [![Latest Version](https://img.shields.io/github/tag/aws-samples/aws-ai-intelligent-document-processing)](https://github.com/aws-samples/aws-ai-intelligent-document-processing/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](hhttps://github.com/rodalarcon/aws-ai-intelligent-document-processing/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rodalarcon/aws-ai-intelligent-document-processing/blob/main/LICENSE)
 
 This repository is based on the official repository for [Intelligent Document Processing with AWS AI Services](https://catalog.us-east-1.prod.workshops.aws/workshops/c2af04b2-54ab-4b3d-be73-c7dd39074b20) workshop.
 
