@@ -1,9 +1,9 @@
 # Intelligent Document Processing with AWS AI Services
 
 [![Latest Version](https://img.shields.io/github/tag/aws-samples/aws-ai-intelligent-document-processing)](https://github.com/aws-samples/aws-ai-intelligent-document-processing/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aws-samples/amazon-eks-arch-apache-solr/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aws-samples/rodalarcon/blob/main/LICENSE)
 
-This repository is part of [Intelligent Document Processing with AWS AI Services](https://catalog.us-east-1.prod.workshops.aws/workshops/c2af04b2-54ab-4b3d-be73-c7dd39074b20) workshop.
+This repository is based on the official repository for [Intelligent Document Processing with AWS AI Services](https://catalog.us-east-1.prod.workshops.aws/workshops/c2af04b2-54ab-4b3d-be73-c7dd39074b20) workshop.
 
 Documents contain valuable information and come in various shapes and forms. In most cases, you are manually processing these documents which is time consuming, prone to error, and expensive. Not only do you want this information extracted quickly but you also want to automate business processes that presently rely on manual inputs and intervention across various file types and formats.
 
@@ -63,7 +63,7 @@ Once the SageMaker Studio IDE has fully loaded in your browser, you can clone th
 * Next, clone this repository using 
 
 ```  
-git clone https://github.com/aws-samples/aws-ai-intelligent-document-processing idp_workshop
+git clone https://github.com/rodalarcon/aws-ai-intelligent-document-processing idp_workshop
 ```
 
 * Once the repository is cloned, a direcotry named `idp_workshop` will appear in the "File Browser" on the left panel of SageMaker Studio IDE

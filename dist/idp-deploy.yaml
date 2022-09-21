@@ -115,7 +115,7 @@ Resources:
                   - textract:AnalyzeExpense
                   - textract:DetectDocumentText
                   - textract:StartDocumentAnalysis
-                  - textract:StartDocumentTextDetection                  
+                  - textract:StartDocumentTextDetection                 
                   - comprehend:DetectEntities
                   - comprehend:DetectPiiEntities
                   - comprehend:ContainsPiiEntities
@@ -142,6 +142,7 @@ Resources:
                   - comprehend:ListEntityRecognizerSummaries
                   - comprehend:ListDocumentClassifiers 
                   - comprehend:ListDocumentClassifierSummaries
+                  - comprehend:ImportModel
                 Resource: '*'
       AssumeRolePolicyDocument: 
         Version: 2012-10-17
